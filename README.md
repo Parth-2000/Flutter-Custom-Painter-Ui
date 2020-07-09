@@ -1,6 +1,9 @@
-# flutter_custom_painter
+# Flutter_Custom_Painter_UI_App
 
 A new Flutter project.
+
+# Description
+In the app two UI design are made for background using CUSTOM PAINTER in FLUTTER.
 
 ## Getting Started
 
